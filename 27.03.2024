@@ -4,7 +4,7 @@ W trakcie przeprowadzania symulacji molekularnej pentadekanu w programie GROMACS
 
 ## Opis problemu
 
-Podczas standardowej symulacji z użyciem zwykłego termostatu, zauważyliśmy, że temperatura systemu nie stabilizuje się prawidłowo, co może prowadzić do błędnych wyników. Pomimo długiego czasu równowagi, temperatura systemu wciąż oscyluje wokół wartości docelowej.
+Podczas standardowej symulacji z użyciem zwykłego termostatu, zauważyliśmy, że temperatura systemu nie stabilizuje się prawidłowo, co może prowadzić do błędnych wyników. 
 
 ## Rozwiązanie
 
@@ -12,7 +12,5 @@ Aby poprawić stabilność symulacji, zastosowaliśmy metodę Berendsena, która
 
 Dodatkowo, aby przyspieszyć proces równowagi i zbliżyć system do warunków docelowych, zdecydowaliśmy się zwiększyć temperaturę do 50 stopni Celsjusza. Jest to powszechna praktyka w symulacjach molekularnych, aby przyspieszyć dyfuzję cząsteczek i zmniejszyć czas potrzebny na osiągnięcie równowagi.
 
-## Podsumowanie
 
-Choć nieudane obliczenia mogą być frustrujące, zastosowane przez nas kroki pozwoliły na poprawę stabilności symulacji pentadekanu w GROMACS. Metoda Berendsena oraz zwiększenie temperatury okazały się skutecznymi środkami zaradczymi, pozwalającymi uzyskać wiarygodne wyniki symulacji.
 
