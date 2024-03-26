@@ -10,7 +10,7 @@ Podczas standardowej symulacji z użyciem zwykłego termostatu, zauważyliśmy, 
 
 Aby poprawić stabilność symulacji, zastosowaliśmy metodę Berendsena, która umożliwia lepszą kontrolę temperatury w systemie. Metoda ta dodaje dodatkową siłę do równań ruchu, co pozwala na lepszą regulację temperatury, zwłaszcza w przypadku substancji, które mają trudności w osiągnięciu równowagi termicznej.
 
-Dodatkowo, aby przyspieszyć proces równowagi i zbliżyć system do warunków docelowych, zdecydowaliśmy się zwiększyć temperaturę do 50 stopni Celsjusza. Jest to powszechna praktyka w symulacjach molekularnych, aby przyspieszyć dyfuzję cząsteczek i zmniejszyć czas potrzebny na osiągnięcie równowagi.
+Dodatkowo, aby przyspieszyć proces równowagi i zbliżyć system do warunków docelowych, zdecydowaliśmy się zwiększyć temperaturę do 50 stopni Celsjusza. 
 
 
 
