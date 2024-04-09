@@ -10,4 +10,15 @@
 * rozwiązanie: Aby poprawić stabilność symulacji, zastosowaliśmy metodę Berendsena, która umożliwia lepszą kontrolę temperatury w systemie. Metoda ta dodaje dodatkową siłę do równań ruchu, co pozwala na lepszą regulację temperatury, zwłaszcza w przypadku substancji, które mają trudności w osiągnięciu równowagi termicznej.
 Dodatkowo, aby przyspieszyć proces równowagi i zbliżyć system do warunków docelowych, zdecydowaliśmy się zwiększyć temperaturę do 50 stopni Celsjusza. 
 
+## 2024-10-03
+
+* Wykonane obliczenia dla trójacetyny 
+* Dane i wyniki symulacji 
+    * Energia potencjalna dla pojedynczej cząsteczki : -158,486 kJ/mol 
+    * Energia potencjalna dla 800 cząsteczek trójacetyny : -182196 kJ/mol
+    * Ilość cząsteczek (N) : 800
+    * Temperatura : 298,15 K
+    * Wyliczona entalpia parowania : 71,73782 kJ/mol = 17,14534 kcal/mol
+    
+
 
