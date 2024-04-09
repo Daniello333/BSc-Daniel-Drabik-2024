@@ -11,7 +11,8 @@
 Dodatkowo, aby przyspieszyć proces równowagi i zbliżyć system do warunków docelowych, zdecydowaliśmy się zwiększyć temperaturę do 50 stopni Celsjusza. 
 
 ## 2024-10-03
-
+* Połączenie Visual Studio Code z Repozytorium GitHuba za pomocą środowiska Codespace 
+    * Komendy : clone, commit, push 
 * Wykonane obliczenia dla trójacetyny 
 * Dane i wyniki symulacji 
     * Energia potencjalna dla pojedynczej cząsteczki : -158,486 kJ/mol 
