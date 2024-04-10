@@ -1,4 +1,9 @@
 
+# Praca licencjacka
+## tytuł
+
+cele badawcze
+
 # Spotkania z promotorem w ramach pracowni
 
 ## 2024-04-03
