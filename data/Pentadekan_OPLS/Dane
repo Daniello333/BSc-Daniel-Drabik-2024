@@ -1,1 +1,13 @@
+Wyniki dla Pentadekanu w polu siłowym OPLS_OLD :
 
+
+Last energy frame read 10000 time 100000.000         
+
+Statistics over 50000001 steps [ 0.0000 through 100000.0000 ps ], 1 data sets
+All statistics are over 500001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Potential                   6884.12         19       1514   -71.2632  (kJ/mol)
+
+GROMACS reminds you: "I never see what has been done; I only see what remains to be done." (Marie Curie)
