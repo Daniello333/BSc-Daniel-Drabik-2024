@@ -6,7 +6,7 @@ cele badawcze
 
 # Spotkania z promotorem w ramach pracowni
 
-## 2024-04-03
+## 2024-03-04
 
  * Nieudane obliczenia w GROMACS dotyczące pentadekanu: w trakcie przeprowadzania symulacji molekularnej pentadekanu w programie GROMACS napotkaliśmy na pewne problemy, które wymagały zastosowania dodatkowych kroków w celu poprawienia stabilności symulacji.
 
