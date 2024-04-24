@@ -5,7 +5,20 @@
 cele badawcze
 
 # Spotkania z promotorem w ramach pracowni
-
+## 2024-24-04
+* Stworzenie plików void.mdp dla pól siłowych OPLS i C36 dla pentadekanu.
+* Obliczenie dwóch pól siłowych OPLS
+* Obliczenie entalpii parowania
+* Następny krok po entalpii parowania - weryfikacja poprawnie zbudowanej cząsteczki - porównanie z wynikami eksperymentalnymi
+* Jeśli jest poprawnie
+* Policzenie gęstości - sprawdzenie poprawności cząsteczki
+* Policzenie dyfuzji translacyjnej
+* Porównanie pól siłowych
+* Dane do umieszczenie w DATA: minimalny zestaw plików : plik top, mdp, itp
+* Zwrócenie się do Pana Michała w sprawie obliczenia dyfuzji translacyjnej
+* Symulacje w temperaturze (sprawdzić w publikacji w jakiej temperaturze)
+* Minsquare displacement
+  
 ## 2024-03-04
 
  * Nieudane obliczenia w GROMACS dotyczące pentadekanu: w trakcie przeprowadzania symulacji molekularnej pentadekanu w programie GROMACS napotkaliśmy na pewne problemy, które wymagały zastosowania dodatkowych kroków w celu poprawienia stabilności symulacji.
