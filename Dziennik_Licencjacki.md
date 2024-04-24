@@ -10,8 +10,7 @@ cele badawcze
 * Obliczenie dwóch pól siłowych OPLS
 * Obliczenie entalpii parowania
 * Następny krok po entalpii parowania - weryfikacja poprawnie zbudowanej cząsteczki - porównanie z wynikami eksperymentalnymi
-* Jeśli jest poprawnie
-* Policzenie gęstości - sprawdzenie poprawności cząsteczki
+* Jeśli jest poprawnie - Policzenie gęstości - sprawdzenie poprawności cząsteczki
 * Policzenie dyfuzji translacyjnej
 * Porównanie pól siłowych
 * Dane do umieszczenie w DATA: minimalny zestaw plików : plik top, mdp, itp
