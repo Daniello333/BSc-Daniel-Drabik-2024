@@ -17,6 +17,27 @@ cele badawcze
 * Zwrócenie się do Pana Michała w sprawie obliczenia dyfuzji translacyjnej
 * Symulacje w temperaturze (sprawdzić w publikacji w jakiej temperaturze)
 * Minsquare displacement
+
+## 2024-10-04
+* Pudełko symulacyjne = 3,5 -4 max
+* Policzenie gęstości -> Gmx energy dla Production_MD -> Wybranie Density
+* Policzenie energii potencjalnej -> Gmx energy dla Production_MD -> Wybranie Potential
+* Policzyć Hvap dla pentadekanu
+* Stworzyć biblioteke z publickacjami : 	MacKerell Lab (umaryland.edu)  CHARMM 36
+*	Refinement of the Optimized Potentials for Liquid Simulations Force Field for Thermodynamics and Dynamics of Liquid Alkanes | The Journal of Physical Chemistry B (acs.org)
+* OPLS/AA aktualizacja 2022 -> Uwzględnić pole siłowe. 
+* nienasycone węglowodory, alkohole i estry - 2024 (Jorgensen Publications)
+* trójacetyna i n-pentadekan
+* Stwórz w data: 
+	* Katalog n-pentadekan
+	* Podkatalogi opls i c36
+
+*Cele pośrednie:
+	** n-pentadekan dla OPLS/AA-2022 i C36 (2014, 2021) (trzeba będzie przepisać niektóre parametry)
+	** density, heat of vaporization - sprawdzenie poprawności parametryzacji cząsteczek n-pdc
+*Cel główny: 
+	** własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
+
   
 ## 2024-03-04
 
