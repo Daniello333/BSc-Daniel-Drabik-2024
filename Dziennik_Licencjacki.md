@@ -32,10 +32,10 @@ cele badawcze
 	* Katalog n-pentadekan
 	* Podkatalogi opls i c36
 * Cele pośrednie:
-	** n-pentadekan dla OPLS/AA-2022 i C36 (2014, 2021) (trzeba będzie przepisać niektóre parametry)
-	** density, heat of vaporization - sprawdzenie poprawności parametryzacji cząsteczek n-pdc
+	* n-pentadekan dla OPLS/AA-2022 i C36 (2014, 2021) (trzeba będzie przepisać niektóre parametry)
+	* density, heat of vaporization - sprawdzenie poprawności parametryzacji cząsteczek n-pdc
 * Cel główny: 
-	** własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
+	* własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
 
   
 ## 2024-03-04
