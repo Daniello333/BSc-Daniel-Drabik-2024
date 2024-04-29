@@ -1,9 +1,13 @@
 
 # Praca licencjacka
 ## tytuł
-
-cele badawcze
-
+Wyznaczanie właśności kinetycznych związków aktywnych biologicznie z wykorzystaniem metody modelowania molekularnego
+##Cele badawcze
+* Cele pośrednie:
+	* n-pentadekan dla OPLS/AA-2022 i C36 (2014, 2021) (trzeba będzie przepisać niektóre parametry)
+	* density, heat of vaporization - sprawdzenie poprawności parametryzacji cząsteczek n-pdc
+* Cel główny: 
+	* własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
 # Spotkania z promotorem w ramach pracowni
 ## 2024-24-04
 * Stworzenie plików void.mdp dla pól siłowych OPLS i C36 dla pentadekanu.
