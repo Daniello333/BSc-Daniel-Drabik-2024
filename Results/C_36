@@ -1,0 +1,4 @@
+CHARMM							
+Egas	     Eliq	      R 	          T 	    R * T	        R  * T	    Hvap 	      Hvap
+182,694	  58728,9	  8,314	        303,15	2520,3891	  2,5203891	    67,7565891	16,19382479
+kJ/mol	  kJ/mol	  J/(mol * K)	    K    	J /mol	      kJ/mol	      kJ/mol	    kcal/mol
