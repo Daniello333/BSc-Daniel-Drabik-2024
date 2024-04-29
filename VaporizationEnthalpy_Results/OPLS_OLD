@@ -1,0 +1,6 @@
+Egas = 164,568 kJ/mol
+Eliq = 6884,2 kJ/mol 
+R = 8,314 J/(mol * K)
+T = 298,15 
+R * T = 2478,819 J/mol = 2,478819 kJ/mol
+Hvap = 79,90606 kJ/mol = 19,09755 kcal/mol    (kcal = 0,239 kJ)
