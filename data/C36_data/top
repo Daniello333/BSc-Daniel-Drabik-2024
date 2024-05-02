@@ -1,0 +1,11 @@
+#include "pentadekan_C36.itp"
+#include "forcefield.itp"
+
+
+[ system ]
+; Name
+1 Pentadekan
+
+[ molecules ]
+; Compound        nmol
+PEN          500
