@@ -1,0 +1,12 @@
+#include "oplsaa.ff/forcefield.itp"
+#include "pentadekan_OPLS.itp"
+
+
+[ system ]
+; Name
+1 Pentadekan
+
+[ molecules ]
+; Compound        nmol
+PEN          80
+
