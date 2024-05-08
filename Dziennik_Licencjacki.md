@@ -8,6 +8,20 @@
 * Cel główny: 
 	* własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
 # Spotkania z promotorem w ramach pracowni
+## 2024-08-05
+* Stworzenie dokumentu zbiorczego w którym będą się znadjowały:
+	* Podrozdziały dla odpowiednich pól siłowych
+   	* Kilkuzdaniowy opis przebiegu obliczeń
+   	* Zestawienie wszystkich parametrów dla podzespołów
+   	* tabelki dla entalpii swobodnej, dyfuzji translacyjnej i gęstości
+* Główny cel : sprawdzenie poprawności topologii cząsteczek z publikacji
+* Dodatkowo : obliczenie energii swobodnej hydratacji delta G
+* Stworzenie podkatalogów VOID :
+	* plik dla pojedynczej cząsteczki
+   	* pierwsza i ostatnia klatka z fazy ciekłej w formacie pdb
+* Wykresy matplotlib - formatowanie - tutorial
+* Stworzyć pliki z wykresami z rozszerzeniem py
+  
 ## 2024-24-04
 * Stworzenie plików void.mdp dla pól siłowych OPLS i C36 dla pentadekanu.
 * Obliczenie dwóch pól siłowych OPLS
