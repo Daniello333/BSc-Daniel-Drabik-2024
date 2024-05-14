@@ -3,5 +3,5 @@
 | Liczba cząsteczek     | 162        | 162     | 512    | 500  | 
 | Temperatura (K)   | 298,15        | 298,15     | 298,15    | 303,15  |
 | Gęstość  (kg/m^3)   | 690.031        | 736.544      | 768.962    | 747.693  | 
-| Entalpia swobodna hydratacji (kcal/mol)     | 18,51215023 (stara wartosc, obliczana ponownie)        | Dane 4,2 (tworzy sie)    | 27,03403   | 16,19382  | 
+| Entalpia swobodna hydratacji (kcal/mol)     | 18,51259454 (stara wartosc, obliczana ponownie)        | Dane 4,2 (tworzy sie)    | 27,03467998   | 16,19421346  | 
 | Dyfuzja translacyjna  (1e-5 cm^2/s)    | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
