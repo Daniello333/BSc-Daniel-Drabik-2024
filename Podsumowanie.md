@@ -9,7 +9,7 @@
 ### Przebieg obliczeń symulacji molekularnej
 
 1. **Tworzenie Boxa**:
-   Rozpoczęliśmy od utworzenia symulacyjnego boxa zawierającego układ molekularny. W tym etapie określiliśmy wymiary boxa oraz ustawiliśmy odpowiednie warunki graniczne.
+   Rozpoczęliśmy od utworzenia symulacyjnego boxa zawierającego układ molekularny. W tym etapie określiliśmy wymiary boxa oraz ustawiliśmy odpowiednie warunki graniczne takie jak ilość cząsteczek i wykorzystanie odpowiedniego pola siłowego.
 
 2. **Równowaga Elektrostatyczna (EM)**:
    Następnie przeprowadziliśmy równowagę elektrostatyczną (EM), w której zamroziliśmy pozycje atomów i minimalizowaliśmy energię potencjalną układu, usuwając ewentualne niestabilności strukturalne.
