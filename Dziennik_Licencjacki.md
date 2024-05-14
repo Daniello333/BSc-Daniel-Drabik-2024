@@ -13,7 +13,7 @@
 	* Podrozdziały dla odpowiednich pól siłowych
    	* Kilkuzdaniowy opis przebiegu obliczeń
    	* Zestawienie wszystkich parametrów dla podzespołów
-   	* tabelki dla entalpii swobodnej, dyfuzji translacyjnej i gęstości
+   	* tabelki dla entalpii swobodnej hydratacji, dyfuzji translacyjnej i gęstości
 * Główny cel : sprawdzenie poprawności topologii cząsteczek z publikacji
 * Dodatkowo : obliczenie energii swobodnej hydratacji delta G
 * Stworzenie podkatalogów VOID :
