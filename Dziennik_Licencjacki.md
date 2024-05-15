@@ -8,6 +8,21 @@
 * Cel główny: 
 	* własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
 # Spotkania z promotorem w ramach pracowni
+## 2024-15-05
+* Zapisać lepiej pierwszy rząd w tabelce
+* Wstawić te wartości z publikacji dla porównanie do tabeli
+* Podanie wartości eksperymentalnej
+* Podanie Wersji Gromacsa : 2022.4-conda_forge
+* Podanie Wersji Gromacsa z publikacji
+* Zmiana tytułu :Wyznaczanie własności termodynamicznych i kinetycznych n-oktanu, n-dodekanu i n-pentadekanu metodami modelowania molekularnego
+* Obliczenia dla cząsteczek : oktan, dodekan, pentadekan (który już mam)
+
+* Oryginalny OPLS : OPLS_1996
+* JPCB OPLS : OPLS_2013
+* Jorgensen JPCB : OPLS_2022
+* CHARMM_C36
+
+-Do katalogów VOID wstawić pliki top i itp
 ## 2024-08-05
 * Stworzenie dokumentu zbiorczego w którym będą się znadjowały:
 	* Podrozdziały dla odpowiednich pól siłowych
