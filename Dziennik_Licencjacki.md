@@ -22,7 +22,7 @@
 * Jorgensen JPCB : OPLS_2022
 * CHARMM_C36
 
--Do katalogów VOID wstawić pliki top i itp
+*Do katalogów VOID wstawić pliki top i itp
 ## 2024-08-05
 * Stworzenie dokumentu zbiorczego w którym będą się znadjowały:
 	* Podrozdziały dla odpowiednich pól siłowych
