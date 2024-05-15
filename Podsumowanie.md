@@ -3,7 +3,7 @@
 | Liczba cząsteczek     | 162        | 162     | 512    | 500  | 
 | Temperatura (K)   | 298,15        | 298,15     | 298,15    | 303,15  |
 | Gęstość  (kg/m^3)   | 690.031        | 736.544      | 768.962    | 747.693  | 
-| Entalpia swobodna hydratacji (kcal/mol)     | 18,40026187        | 16,13039783    | 27,03467998   | 16,19421346  | 
+| Entalpia Parowania (kcal/mol)     | 18,40026187        | 16,13039783    | 27,03467998   | 16,19421346  | 
 | Dyfuzja translacyjna  (1e-5 cm^2/s)    | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
 
 ### Przebieg obliczeń symulacji molekularnej
