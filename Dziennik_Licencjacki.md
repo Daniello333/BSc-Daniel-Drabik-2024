@@ -1,6 +1,6 @@
 
 # Praca licencjacka
-## Wyznaczanie właśności kinetycznych związków aktywnych biologicznie z wykorzystaniem metody modelowania molekularnego
+## Wyznaczanie własności termodynamicznych i kinetycznych n-oktanu, n-dodekanu i n-pentadekanu metodami modelowania molekularnego
 ## Cele badawcze
 * Cele pośrednie:
 	* n-pentadekan dla OPLS/AA-2022 i C36 (2014, 2021) (trzeba będzie przepisać niektóre parametry)
