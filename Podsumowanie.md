@@ -1,4 +1,4 @@
-| Opis danych     | OPLS_1996       | OPLS_2013   | OPLS_NEW   | CHARMM |
+| Opis danych     | OPLS_1996       | OPLS_2013   | OPLS_2022   | CHARMM |
 |-----------------|-----------------|--------------|-------------|-----------|
 | Liczba cząsteczek     | 162        | 162     | 512    | 500  | 
 | Temperatura (K)   | 298,15        | 298,15     | 298,15    | 303,15  |
