@@ -6,6 +6,9 @@
 | Entalpia Parowania (kcal/mol)     | 18,40026187        | 16,13039783    | 27,03467998   | 16,19421346  | 
 | Dyfuzja translacyjna  (1e-5 cm^2/s)    | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
 
+###Wersja Gromacs Z Publikacji 
+###Wersja Gromacs Własnych Obliczeń
+   2022.4-conda_forge
 ### Przebieg obliczeń symulacji molekularnej
 
 1. **Tworzenie Boxa**:
