@@ -6,6 +6,13 @@
 | Entalpia Parowania (kcal/mol)     | 18,40026187        | 16,13039783    | 27,03467998   | 16,19421346  | 
 | Dyfuzja translacyjna  (1e-5 cm^2/s)    | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
 
+###Wartości Referencyjne dla Pentadekanu OPLS_2013
+| Opis danych     | OPLS_1996 | OPLS_2013 | Reference |
+|-----------------|-----------------|------------|-------------|
+| Gęstość  (kg/m^3)   | 840 |  745  | 765 
+| Entalpia Parowania (kcal/mol)     | 28.49  |   18.41 | 18.35    
+| Dyfuzja translacyjna  (1e-5 cm^2/s)    | 4.77 |  4.57 |  4.13
+
 ### Wersja Gromacs Z Publikacji 
     GROMACS v 4.5.5.
 ### Wersja Gromacs Własnych Obliczeń
