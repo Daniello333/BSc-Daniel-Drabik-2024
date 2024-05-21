@@ -7,6 +7,7 @@
 | Dyfuzja translacyjna  (1e-5 cm^2/s)    | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
 
 ### Wersja Gromacs Z Publikacji 
+    GROMACS v 4.5.5.
 ### Wersja Gromacs Własnych Obliczeń
    2022.4-conda_forge
 ### Przebieg obliczeń symulacji molekularnej
