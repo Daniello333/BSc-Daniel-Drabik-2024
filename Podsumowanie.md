@@ -1,3 +1,5 @@
+### Wyniki własnych obliczeń dla n-pentadekanu
+
 | Opis danych     | OPLS_1996       | OPLS_2013   | OPLS_2022   | CHARMM_C36 |
 |-----------------|-----------------|--------------|-------------|-----------|
 | Liczba cząsteczek     | 162        | 162     | 512    | 500  | 
