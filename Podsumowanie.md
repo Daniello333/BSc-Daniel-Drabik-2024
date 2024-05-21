@@ -7,7 +7,7 @@
 | Dyfuzja translacyjna  (1e-5 cm^2/s)    | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
 
 ###Wartości Referencyjne dla Pentadekanu OPLS_2013
-| Opis danych     | OPLS_1996 | OPLS_2013 | Reference |
+| Opis danych     | OPLS_1996 | OPLS_2013 | Reference/Wartość eksperymentalna |
 |-----------------|-----------------|------------|-------------|
 | Gęstość  (kg/m^3)   | 840 |  745  | 765 
 | Entalpia Parowania (kcal/mol)     | 28.49  |   18.41 | 18.35    
