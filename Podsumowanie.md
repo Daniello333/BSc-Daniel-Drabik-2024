@@ -25,7 +25,7 @@
 ### Wersja Gromacs Z Publikacji 
     GROMACS v 4.5.5.
 ### Wersja Gromacs Własnych Obliczeń
-    GROMACS v 2022.4-conda_forge
+    GROMACS v 2022.4
 ### Przebieg obliczeń symulacji molekularnej
 
 1. **Tworzenie Boxa**:
