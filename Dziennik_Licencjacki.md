@@ -11,7 +11,7 @@
 ## 2024-22-05
 - Pierwsza kolumna : Wartości referencyjne
 - Wszystko w jednej tabelce 
-- Przeliczyć dyfuzje translacyjna na cm^2/uq
+- Przeliczyć dyfuzje translacyjna na cm^2/us
 - Wartości referencyjne = wartości eksperymentalne
 - Wpisać nowe wartości dla C36 - 298,15K
 - Dodanie tekstu opisowego dla poszczególnych wyników z uwzględnieniem nsteps, temp, 
