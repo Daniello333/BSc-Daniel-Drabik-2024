@@ -1,17 +1,18 @@
 ### Wyniki własnych obliczeń dla n-pentadekanu
 
-| Opis danych     | OPLS_1996       | OPLS_2013   | OPLS_2022   | CHARMM_36 |
-|-----------------|-----------------|--------------|-------------|-----------|
-| Gęstość  (kg/m^3)   | 690.031        | 736.544      | 768.962    | 747.693  | 
-| Entalpia Parowania (kcal/mol)     | 18,40026187        | 16,13039783    | 27,03467998   | 16,19421346  | 
-| Dyfuzja translacyjna  (1e-5 cm^2/s)    | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
+| Opis danych     |Wartości eksperymentalne | OPLS_1996       | OPLS_2013   | OPLS_2022   | CHARMM_36 |
+|-----------------|--|-----------------|--------------|-------------|-----------|
+| Gęstość  (kg/m^3)   | | 690.031        | 736.544      | 768.962    | 747.693  | 
+| Entalpia Parowania (kcal/mol)     | | 18,40026187        | 16,13039783    | 27,03467998   | 16,19421346  | 
+| Dyfuzja translacyjna  (1e-5 cm^2/s)    | | 0.7169        | 0.4102     | 0.2845    | 0.5224  | 
 
+Dodać opis tabeli : Umieścic informacje o liczbie cząsteczek, temperaturze
 ### Wartości Referencyjne dla Pentadekanu OPLS_2013
 | Opis danych     | OPLS_1996 | OPLS_2013 | Reference/Wartość eksperymentalna |
 |-----------------|-----------------|------------|-------------|
 | Gęstość  (kg/m^3)   | 840 |  745  | 765 
 | Entalpia Parowania (kcal/mol)     | 28.49  |   18.41 | 18.35    
-| Dyfuzja translacyjna  (1e-5 cm^2/s)    | 4.77 |  4.57 |  4.13
+| Dyfuzja translacyjna  (cm^2/us)    | 4.77 |  4.57 |  4.13
 
 ### Wartości Referencyjne dla Pentadekanu CHARMM_36 w temp 298 K
 | Opis danych     | CHARMM |
