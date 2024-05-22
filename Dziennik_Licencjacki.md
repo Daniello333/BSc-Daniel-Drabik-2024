@@ -8,6 +8,17 @@
 * Cel główny: 
 	* własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
 # Spotkania z promotorem w ramach pracowni
+## 2024-22-05
+- Pierwsza kolumna : Wartości referencyjne
+- Wszystko w jednej tabelce 
+- Przeliczyć dyfuzje translacyjna na cm^2/uq
+- Wartości referencyjne = wartości eksperymentalne
+- Wpisać nowe wartości dla C36 - 298,15K
+- Dodanie tekstu opisowego dla poszczególnych wyników z uwzględnieniem nsteps, temp, 
+- Początek pisania pracy licencjackiej, plik word w onedrive:
+	- Opis: różnica miedzy polem siłowym a CHARMM
+	- Wyniki: jedna tabelka na jedną cząsteczkę wraz z wartościami eksperymentalnymi
+
 ## 2024-15-05
 * Zapisać lepiej pierwszy rząd w tabelce
 * Wstawić te wartości z publikacji dla porównanie do tabeli
