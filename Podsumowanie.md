@@ -1,6 +1,6 @@
 ### Wyniki własnych obliczeń dla n-pentadekanu
 
-| Opis danych     | OPLS_1996       | OPLS_2013   | OPLS_2022   | CHARMM_C36 |
+| Opis danych     | OPLS_1996       | OPLS_2013   | OPLS_2022   | CHARMM_36 |
 |-----------------|-----------------|--------------|-------------|-----------|
 | Liczba cząsteczek     | 162        | 162     | 512    | 500  | 
 | Temperatura (K)   | 298,15        | 298,15     | 298,15    | 303,15  |
@@ -15,7 +15,7 @@
 | Entalpia Parowania (kcal/mol)     | 28.49  |   18.41 | 18.35    
 | Dyfuzja translacyjna  (1e-5 cm^2/s)    | 4.77 |  4.57 |  4.13
 
-### Wartości Referencyjne dla Pentadekanu CHARMM_C36 w temp 298 K
+### Wartości Referencyjne dla Pentadekanu CHARMM_36 w temp 298 K
 | Opis danych     | CHARMM |
 |-----------------|-----------------|
 | Gęstość  (kg/m^3)   | 759.66   
