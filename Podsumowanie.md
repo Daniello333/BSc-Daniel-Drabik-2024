@@ -1,3 +1,11 @@
+### Parametry Symulacji
+
+| Parametr               | OPLS_1996 | OPLS_2013 | OPLS_2022 | CHARMM_36 |
+|------------------------|-----------|-----------|-----------|-----------|
+| Liczba cząsteczek      | 162      | 162      | 512      | 162      |
+| Liczba kroków (nsteps) | 50000000  | 50000000    | 50000000    | 50000000   |  = 100ns
+| Temperatura (K)        | 298,15       | 298,15       | 298,15       | 298,15       |
+
 ### Wartości Eksperymentalne i Symulacyjne
 
 | Opis danych                   | Wartości eksperymentalne | OPLS_1996                | OPLS_2013               | OPLS_2022               | CHARMM_36              |
