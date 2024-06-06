@@ -21,7 +21,7 @@
 
 - Wszystkie liczby w tabelach które podaje - 4 cyfry znaczące DONE
 
-- W wynikach wpisać na początku znaczenie wyników - dlaczego gęstość, entalpia i dyfuzja
+- W wynikach wpisać na początku znaczenie wyników - dlaczego gęstość, entalpia i dyfuzja DONE
 
 - matplotlib - rysunki dyfuzji translacyjnej i gęstości 
 - macierz 2x2
