@@ -9,17 +9,17 @@
 	* własności kinetyczne - obliczenia dyfuzji translacyjnej, rotacyjnej i ew. lepkości
 # Spotkania z promotorem w ramach pracowni
 ## 2024-05-06
-- nonbreaking space, linie nie mogą się kończyć na i
-- wpisać zakład
-- w opls dodać OPLS/AA oraz CHARMM_
+- nonbreaking space, linie nie mogą się kończyć na i DONE
+- wpisać zakład DONE
+- w opls dodać OPLS/AA oraz CHARMM_ DONE
 - wrzucić wzory na energie potencjalną 
 - poczytać i opisać oddziaływania wiążące i niewiążące
-- rysunki cząsteczek nie na czarnym tle tylko na białym 
-- raytracemode 3 i białe tło - pymol wiki
+- rysunki cząsteczek nie na czarnym tle tylko na białym DONE
+- raytracemode 3 i białe tło - pymol wiki DONE
 - wstaw opis w tabelach/rysunkach - insert caption 
-- entalpia parowania - ograniczyć do trzech miejsc po przecinku
+- entalpia parowania - ograniczyć do trzech miejsc po przecinku DONE
 
-- Wszystkie liczby w tabelach które podaje - 4 cyfry znaczące 
+- Wszystkie liczby w tabelach które podaje - 4 cyfry znaczące DONE
 
 - W wynikach wpisać na początku znaczenie wyników - dlaczego gęstość, entalpia i dyfuzja
 
